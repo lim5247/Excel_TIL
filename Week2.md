@@ -41,19 +41,21 @@
 
 ## 03-1. 반드시 숙지해야 할 셀 서식 기초
 > **표시 형식은 걸으로 보이는 형식만 바꾼다(113 ~ 115p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="517" height="101" alt="image" src="https://github.com/user-attachments/assets/aa6eec87-704b-48f1-b186-8c6467805b16" />
+
 
 > **세미콜론으로 양수, 음수, 0, 텍스트 서식을 구분한다(115 ~ 117p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="598" height="134" alt="image" src="https://github.com/user-attachments/assets/e4d91ec2-1d05-4511-b505-e472da2fb6d6" />
 
 
 ## 03-2. 실무자를 위한 셀 표시 형식 대표 예제
 > **0 지우거나 하이픈[-]으로 표시하기(119 ~121p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="398" height="296" alt="image" src="https://github.com/user-attachments/assets/24a2aaab-ffce-40c0-b41a-c0c111d673f7" />
 
-> **날짜를 년/월/일 [요일)로 표시하기(121 ~122p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
-
+> **날짜를 년/월/일（요일)로 표시하기(121 ~122p)를 진행 후 인증사진을 첨부해주세요.**
+＜ｂｒ＞
+<span style="color:red">제목에 [요일）로 표기되어 있었음‼</span>
+<img width="361" height="193" alt="image" src="https://github.com/user-attachments/assets/ef470e10-2650-4be1-bf53-63fc929e0702" />
 
 ## 03-3. 깔끔한 보고서 작성을 위한 기본 규칙
 > **깔끔한 보고서 완성하기(131 ~134p)를 진행 후 인증사진을 첨부해주세요.**
