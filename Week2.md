@@ -52,25 +52,24 @@
 > **0 지우거나 하이픈[-]으로 표시하기(119 ~121p)를 진행 후 인증사진을 첨부해주세요.**
 <img width="398" height="296" alt="image" src="https://github.com/user-attachments/assets/24a2aaab-ffce-40c0-b41a-c0c111d673f7" />
 
-> **날짜를 년/월/일（요일)로 표시하기(121 ~122p)를 진행 후 인증사진을 첨부해주세요.**
-＜ｂｒ＞
-<span style="color:red">제목에 [요일）로 표기되어 있었음‼</span>
+> **날짜를 년/월/일（요일)로 표시하기(121 ~122p)를 진행 후 인증사진을 첨부해주세요.**  
+🚨（검수） 제목에 [요일）오타 🚨
 <img width="361" height="193" alt="image" src="https://github.com/user-attachments/assets/ef470e10-2650-4be1-bf53-63fc929e0702" />
 
 ## 03-3. 깔끔한 보고서 작성을 위한 기본 규칙
 > **깔끔한 보고서 완성하기(131 ~134p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="576" height="179" alt="image" src="https://github.com/user-attachments/assets/e5a23f6b-2f91-41c8-ae81-a9cbf1020690" />
 
 
 ## 03-4. 조건부 서식으로 빠르게 데이터 분석하기
 > **특정 값보다 크거나 작을 때 강조하기(137 ~139p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="233" height="338" alt="image" src="https://github.com/user-attachments/assets/fcb88db5-7ea7-48be-ab37-8eb666e55ac7" />
 
 > **조건을 만족할 때 전체 행 강조하기(141 ~142p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="357" height="356" alt="image" src="https://github.com/user-attachments/assets/90652b05-71e0-4c85-8828-cdfb2a3b5356" />
 
 > **여러 조건에 모두 만족하는 셀 강조하기(143 ~144p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="281" height="308" alt="image" src="https://github.com/user-attachments/assets/45eefe39-89ff-4175-a566-d8771fbb3c86" />
 
 
 ---
