@@ -1,4 +1,4 @@
-<img width="506" height="514" alt="image" src="https://github.com/user-attachments/assets/bef8e8da-1e09-4439-a02a-71ad0ee6f055" /># Excel 3주차 정규 과제 
+# Excel 3주차 정규 과제 
 
 📌Excel 정규과제는 매주 정해진 분량의 『*진짜 쓰는 실무 엑셀*』 을 읽고 학습하는 것입니다. 이번주는 아래의 **EXCEL_3rd_TIL**에 나열된 분량을 읽고 공부하시면 됩니다.
 
