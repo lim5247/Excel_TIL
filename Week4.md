@@ -93,10 +93,12 @@
 
 
 > **AND, OR 조건으로 고급 필터 실행하기(254 ~257p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1280" height="706" alt="image" src="https://github.com/user-attachments/assets/dfd75a2a-8c2a-4de7-9e49-cb0724a7eb77" />
+
 
 > **원본과 다른 시트에 필터링 결과 추출하기(258 ~260p)를 진행 후 인증사진을 첨부해주세요.**
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1275" height="734" alt="image" src="https://github.com/user-attachments/assets/74bc10fd-c608-4389-8518-9d8c2abbd550" />
 
 ---
 
