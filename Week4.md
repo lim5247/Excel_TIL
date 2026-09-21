@@ -65,31 +65,32 @@
 - 누적 데이터 취합이 용이
 
 > **여러 시트를 동시에 편집하기(223 ~ 224p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
 <img width="1280" height="741" alt="image" src="https://github.com/user-attachments/assets/54e11406-530b-453e-8a56-e32649851047" />
 
 
 ## 05-2. 나만의 목록을 만들어 원하는 순서대로 정렬하기
 > **데이터에서 고유 값 찾고, 사용자 지정 목록 등록하기(228 ~231p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1278" height="760" alt="image" src="https://github.com/user-attachments/assets/41d9c7a2-62c7-42ee-96a5-131b65cc886a" />
 
 
 ## 05-3. 조건에 맞는 데이터만 확인하는 자동 필터
 > **자동 필터에서 조건 지정하여 필터링하기(235 ~236p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1280" height="739" alt="image" src="https://github.com/user-attachments/assets/3849ac9b-e6aa-4fcd-9835-dee15596a40c" />
+
 
 
 ## 05-4. 자동 필터와 정렬 기능으로 판매 현황 보고서 만들기
 > **매출이익률이 10% 이상인 데이터 필터링(243 ~245p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1280" height="708" alt="image" src="https://github.com/user-attachments/assets/87ccfa63-5913-4de0-85b5-ac120ca48d4a" />
 
 > **매출이익 Top 10 필터링 후 시각화하기(246 ~247p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1278" height="647" alt="image" src="https://github.com/user-attachments/assets/4d218816-8dd7-415c-8aba-8f76462ba1ef" />
 
 
 ## 05-6. 원본 데이터는 유지하고, 다양한 조건을 지정하는 고급 필터
 > **여러 고객사 목록을 한방에 필터링하기(251 ~254p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1280" height="742" alt="image" src="https://github.com/user-attachments/assets/2469375c-3c3c-458b-be53-abca166472eb" />
+
 
 > **AND, OR 조건으로 고급 필터 실행하기(254 ~257p)를 진행 후 인증사진을 첨부해주세요.**
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
