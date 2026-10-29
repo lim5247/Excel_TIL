@@ -56,10 +56,10 @@
 
 ## 08-4. 기본 차트를 응용한 혼합 차트와 간트 차트 만들기
 > **혼합 차트 기능으로 누적 세로 막대형에 합계 레이블 표시하기(462 ~ 466p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="553" height="422" alt="image" src="https://github.com/user-attachments/assets/979a41c0-cd62-4722-b5f2-ac89d35c3299" />
 
 > **단위가 서로 다른 값을 표현할 때 혼합 차트의 보조 축 사용하기(467 ~ 471p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="503" height="425" alt="image" src="https://github.com/user-attachments/assets/b68ee777-74b7-4d16-988d-6e3b0c9dfefa" />
 
 
 ---
