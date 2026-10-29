@@ -40,18 +40,17 @@
 
 ## 08-2. 실무에서 사용하는 엑셀 차트 기본 공식
 > **5단계 과정에 따라 차트 완성하기(435 ~ 444p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
-
+<img width="638" height="469" alt="image" src="https://github.com/user-attachments/assets/6eb309d2-634a-4d88-8dcc-28d216775ff6" />
 
 ## 08-3. 직장인이라면 반드시 기억해야 할 실무 차트 5가지
 > **시간의 흐름, 미래 데이터 예측은 꺾은선형 차트(445 ~ 449p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="527" height="689" alt="image" src="https://github.com/user-attachments/assets/1b811a11-2eb4-4677-8929-546627d2e32c" />
 
 > **항목별 값의 차이 파악은 세로 막대형 차트(450 ~ 452p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="366" height="332" alt="image" src="https://github.com/user-attachments/assets/952b88de-affd-469d-9409-f5d5293e25bd" />
 
 > **특정 항목의 점유율을 강조할 때는 원형 차트(459 ~ 461p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="506" height="320" alt="image" src="https://github.com/user-attachments/assets/cd687390-1204-4cb8-94db-32f78d5305c6" />
 
 
 
